@@ -54,12 +54,6 @@ Contributions are welcome to the FastAPI Hoster project! Here's how you can cont
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Please make sure to update tests as appropriate and adhere to the existing coding style.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
 ## Contact
 
 Your Name - [@AkhileshThykkat](https://x.com/AkhileshThykkat) - akhileshthykkat843@gmail.com
