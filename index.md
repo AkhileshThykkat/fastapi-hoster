@@ -56,7 +56,7 @@ Contributions are welcome to the FastAPI Hoster project! Here's how you can cont
 
 ## Contact
 
-Your Name - [@AkhileshThykkat](https://x.com/AkhileshThykkat) - akhileshthykkat843@gmail.com
+Akhilesh M T - [@AkhileshThykkat](https://x.com/AkhileshThykkat) - akhileshthykkat843@gmail.com
 
 Project Link: [https://github.com/AkhileshThykkat/fastapi-hoster](https://github.com/AkhileshThykkat/fastapi-hoster)
 
