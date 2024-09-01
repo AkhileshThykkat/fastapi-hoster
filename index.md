@@ -34,7 +34,13 @@ go build -o fastapi-hoster ./cmd/fastapi-hoster
 Run the FastAPI Hoster:
 
 ```bash
-./fastapi-hoster
+sudo ./fastapi-hoster
+```
+
+Add package to bin for easy access
+
+```bash
+sudo cp your_path/fastapi-hoster/fastapi-hoster /usr/local/bin/
 ```
 
 Follow the interactive prompts to:
