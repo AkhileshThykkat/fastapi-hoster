@@ -42,6 +42,11 @@ Add package to bin for easy access
 ```bash
 sudo cp your_path/fastapi-hoster/fastapi-hoster /usr/local/bin/
 ```
+Then access anywhere in the system
+
+```bash
+sudo fastapi-hoster
+```
 
 Follow the interactive prompts to:
 
